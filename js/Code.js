@@ -16,14 +16,14 @@ function clues() {
 
 fill("white")
 textSize(15)
-text("R E V B A I L A", 650,147)
+text("CUTNIFON", 650,147)
 fill("lightblue")
 text(" Hint: performs a particular task", 650,170)
 
 
 fill("white")
 textSize(15)
-text("R E V B A I L A", 100,307)
+text("ATADASBAE", 100,307)
 fill("lightblue")
 text("Hint: stores all information", 100,330)
 
